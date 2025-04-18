@@ -14,7 +14,6 @@ import Footer from "./_components/sections/footer";
 export default function Home() {
   return (
     <div className="">
-      {/* <h1 className="bg-azulAstro underline">3d portfolio</h1> */}
       <Navbar />
       <Hero />
       <AppShowcase />
