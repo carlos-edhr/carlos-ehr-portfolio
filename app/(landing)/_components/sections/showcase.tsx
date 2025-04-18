@@ -164,7 +164,7 @@ const AppShowcase = () => {
                     className="flex items-center gap-2 px-6 py-3 bg-emerald-500 text-white rounded-lg hover:bg-emerald-600 transition-colors"
                   >
                     <Link2Icon className="text-lg" />
-                    Live Demo
+                    Live Version
                   </a>
 
                   {/* {project.githubUrl && (
