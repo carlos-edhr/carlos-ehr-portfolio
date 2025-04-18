@@ -539,7 +539,6 @@ section {
 .card:hover::before {
   opacity: 1;
 }
-
 @layer base {
   :root {
     --background: 0 0% 100%;
