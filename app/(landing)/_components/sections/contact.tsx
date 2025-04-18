@@ -151,7 +151,7 @@ const Contact = (): ReactElement => {
           <div className="xl:col-span-7 min-h-96">
             <div className=" w-full h-full hover:cursor-grab rounded-3xl overflow-hidden">
               {/* <ContactExperience /> */}
-              <Spline scene="https://prod.spline.design/krIgaybRyyYoSHHF/scene.splinecode" />
+              <Spline scene="https://prod.spline.design/Ff-NOhTt9cMG3I-g/scene.splinecode" />
             </div>
           </div>
         </div>
