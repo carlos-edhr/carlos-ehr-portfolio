@@ -113,6 +113,7 @@ const Hero = () => {
         <figure>
           <div className="hero-3d-layout bg-zinc-900">
             {/* <HeroExperience /> */}
+
             <Spline scene="https://prod.spline.design/krIgaybRyyYoSHHF/scene.splinecode" />
           </div>
         </figure>
